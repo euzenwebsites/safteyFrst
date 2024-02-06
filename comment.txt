@@ -1,0 +1,121 @@
+<section class="network_area section_black">
+        <img src="https://midot.com/latam/wp-content/uploads/sites/9/2019/04/learn-slide-1.jpg" alt="Shape" class="triangle_shape ntw_shape">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7">
+                    <div class="network_left">
+                        <ul class="icon_box mb_55">
+                            <li>
+                                <i class="icon-shield"></i>
+                                <span>Encrypted Network</span>
+                            </li>
+                            <li>
+                                <i class="icon-battery"></i>
+                                <span>Backup Battery</span>
+                            </li>
+                            <li>
+                                <i class="icon-wifi"></i>
+                                <span>Wireless Signal</span>
+                            </li>
+                        </ul>
+                        <div class="hero_section_title mb_50">
+                            <h4>Encrypted network</h4>
+                            <h1>Secure Signal. Secure Home.</h1>
+                        </div><!--end .hero_section_title-->
+                        <p>It takes a secure wireless network to create complete home security. Our SkyControl encrypts
+                            smart home signals to secure both video and smart home devices. And the bright, HD display
+                            shows you a glowing signal of your home’s status from across the room.</p>
+                    </div><!--end .network_left-->
+                </div><!--end .col-md-7-->
+                <div class="col-md-5 pl_0">
+                    <div class="network_right">
+                        <h2>Automation and control powering the smart home</h2>
+                        <a href="#">Learn More</a>
+                    </div><!--end .network_right-->
+                </div><!--end .col-md-5-->
+            </div><!--end .row-->
+        </div><!--end .container-->
+    </section><!--end .network_area-->
+    <!-- ***************************
+        Network Area End
+     *************************** -->
+
+    <!-- ***************************
+        Easy Step By Step Area Start
+     *************************** -->
+    <section class="step_by_step_area section_padding text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="hero_section_title mb_50">
+                        <h4>3 simple & easy steps</h4>
+                        <h1>Smart Home is Just One Call Away</h1>
+                    </div><!--end .hero_section_title-->
+                </div><!--end .col-md-12-->
+            </div><!--end .row-->
+            <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="step_by_step_box">
+                        <i class="icon-conversation"></i>
+                        <h3>Talk to an Expert</h3>
+                        <ul>
+                            <li>Call 2222 888 9999 to discuss</li>
+                            <li>your home security and get a </li>
+                            <li>free quote now</li>
+                        </ul>
+                        <a href="#" class="btn_tx">Get Started</a>
+                        <a href="#" class="btn_icon"><i class="fa fa-angle-right"></i></a>
+                    </div><!--end .step_by_step_box-->
+                </div><!--end .col-md-4-->
+                <div class="col-md-4 col-sm-6">
+                    <div class="step_by_step_box">
+                        <i class="icon-smart-home"></i>
+                        <h3>Build your System</h3>
+                        <ul>
+                            <li>A Smart Home Pro will help</li>
+                            <li>you customize a system </li>
+                            <li>specifically to your home</li>
+                        </ul>
+                        <a href="#" class="btn_tx">Get Started</a>
+                        <a href="#" class="btn_icon"><i class="fa fa-angle-right"></i></a>
+                    </div><!--end .step_by_step_box-->
+                </div><!--end .col-md-4-->
+                <div class="col-md-4 col-sm-6">
+                    <div class="step_by_step_box">
+                        <i class="icon-customer-support"></i>
+                        <h3>Get Installed</h3>
+                        <ul>
+                            <li>Schedule your professional</li>
+                            <li>installation at your</li>
+                            <li>convenience</li>
+                        </ul>
+                        <a href="#" class="btn_tx">Get Started</a>
+                        <a href="#" class="btn_icon"><i class="fa fa-angle-right"></i></a>
+                    </div><!--end .step_by_step_box-->
+                </div><!--end .col-md-4-->
+            </div><!--end .row-->
+        </div><!--end .container-->
+    </section><!--end .step_by_step_area-->
+    <!-- ***************************
+        Easy Step By Step Area End
+     *************************** -->
+
+    <!-- ***************************
+        Call To Action Area Start
+     *************************** -->
+    <section class="cta_area section_padding light_bg">
+        <img src="assets/images/wlc-shape-1.png" alt="Shape" class="map_shape cta_shape_1">
+        <img src="assets/images/wlc-shape-2.png" alt="Shape" class="map_shape_2 cta_shape_2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="cta_box">
+                        <h1>Keep the smart home experience effortless</h1>
+                        <p>Professional installation and $0 activation</p>
+                        <a href="#" class="btn btn-default default_btn">Request a Free Quote</a>
+                        <img class="house_shape" src="assets/images/house-shape.png" alt="House Image">
+                    </div><!--end .cta_box-->
+                </div><!--end .col-md-12-->
+            </div><!--end .row-->
+        </div><!--end .container-->
+    </section>
